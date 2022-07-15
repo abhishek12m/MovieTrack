@@ -1,4 +1,4 @@
-# MovieTrack
+# MovieTrack-A Search Movie Web Application.
 
 
 Movie library web application with the below features using HTML CSS and JavaScript.
